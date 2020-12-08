@@ -533,3 +533,29 @@ input {
 .footer > small a {
     font-weight: bolder;
 }
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1070px) {
+    .icon-logo {width: 31%;}
+    #slider-main-2.owl-carousel .owl-nav {top: 20%;}
+    .client-logo {width: 59%;}
+    .footer {font-size: 11px;}
+}
+@media screen and (max-width: 1350px) {
+    .client-logo {width: 43%;}
+}
+@media screen and (max-width: 1256px) {
+    .client-logo {width: 45%;}
+}
+@media screen and (max-width: 320px) {
+    .client-logo {width: 56%;}
+}
+@media screen and (max-width: 1200px) {
+    .client-logo {width: 25%;}
+}
